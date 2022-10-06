@@ -183,8 +183,10 @@ def plot_decision_regions(x, y):
 plot_decision_regions(x_test, y_test)
 ```
 ##Output:
-
-
-
+![image](https://github.com/Pallavi-Raveendranadreddy/Experiment-2--Implementation-of-Perceptron/blob/cdea7a58abc2f6e9b1c540d717be5ce8f9fb1744/nn1.PNG)
+![image](https://github.com/Pallavi-Raveendranadreddy/Experiment-2--Implementation-of-Perceptron/blob/cdea7a58abc2f6e9b1c540d717be5ce8f9fb1744/nn2.PNG)
+![image](https://github.com/Pallavi-Raveendranadreddy/Experiment-2--Implementation-of-Perceptron/blob/cdea7a58abc2f6e9b1c540d717be5ce8f9fb1744/nn3.PNG)
+![image](https://github.com/Pallavi-Raveendranadreddy/Experiment-2--Implementation-of-Perceptron/blob/cdea7a58abc2f6e9b1c540d717be5ce8f9fb1744/nn4.PNG)
+![image](https://github.com/Pallavi-Raveendranadreddy/Experiment-2--Implementation-of-Perceptron/blob/cdea7a58abc2f6e9b1c540d717be5ce8f9fb1744/nn5.PNG)
 ##Result:
 Thus a perceptron for classification is implemented using python
